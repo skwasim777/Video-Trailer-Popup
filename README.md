@@ -2,8 +2,6 @@
 # Video Trailer Popup
 
 This project provides a simple web page with a movie description and a button to watch the trailer in a popup. The popup features a close button and a responsive video player.
-
-
 ## Project Structure
 - 'index.html': The main HTML file containing the structure of the webpage.
 - style.css': The stylesheet file providing the styling for the webpage.
