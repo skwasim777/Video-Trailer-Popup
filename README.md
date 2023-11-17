@@ -30,6 +30,6 @@ This project provides a simple web page with a movie description and a button to
 - Event listeners for the "Watch now" button and close icon are defined in this file.
 ## Screenshots
 
-![App Screenshot 1](Screenshot (190).png)
-![App Screenshot 2](Screenshot (191).png)
+![App Screenshot 1](Screenshot%20(190).png)
+![App Screenshot 2](Screenshot%20(191).png)
 
